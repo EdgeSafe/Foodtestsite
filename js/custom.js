@@ -46,13 +46,7 @@
         enter: {
           left: 0,
           opacity: 0
-        },
-        exit: {
-          left: 0,
-          opacity: 0
-        },
-        enterTiming: "ease-in",
-        exitTiming: "ease-in"
+        }
       },
 
       // If your server allow directory listing you can use:
