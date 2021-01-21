@@ -89,7 +89,7 @@ button.navbar-toggle {
 }
 .btn-theme:hover{
 	background: #272626;
-	color: #ffd460;
+	color: #f4c430;
 	cursor: pointer;
 	-webkit-transition: all 300ms ease-in-out;
 	-moz-transition: all 300ms ease-in-out;
@@ -594,7 +594,7 @@ Works
 
 .og-details a:hover {
 	border-color: #252323;
-	color: #ffd460;
+	color: #f4c430;
 }
 
 .og-loading {
@@ -713,7 +713,7 @@ ul.social-network li {
 }
 
 .fa-inverse:hover{
-	color:#ffd460;
+	color:#f4c430;
 	background-color: #0f0f0f;
 }
 
